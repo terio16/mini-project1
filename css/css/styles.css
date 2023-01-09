@@ -30,9 +30,9 @@ body {
 }
 
 .feature ul li {
-  padding-left: 2rem;
-  background-image: url(../img/check.svg);
+  background-image: url('/assets/check.svg');
   background-repeat: no-repeat;
+  padding-left: 3rem;
   line-height: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -71,3 +71,7 @@ a {
   color: #fff;
   text-decoration: none;
 }
+
+/* .col-md-6, .col-md-2, .col-md-5, .col-md-4 {
+  border: 1px solid black;
+} */
