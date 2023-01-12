@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+footer {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.gradient {
+    background: rgb(68, 85, 130);
+    background: linear-gradient(
+      90deg,
+      rgba(68, 85, 130, 1) 7%,
+      rgba(83, 120, 89, 1) 98%
+    );
+  }
