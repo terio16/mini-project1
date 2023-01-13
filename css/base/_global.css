@@ -16,12 +16,3 @@ a {
   color: #fff;
   text-decoration: none;
 }
-
-.gradient {
-    background: rgb(68, 85, 130);
-    background: linear-gradient(
-      90deg,
-      rgba(68, 85, 130, 1) 7%,
-      rgba(83, 120, 89, 1) 98%
-    );
-  }
