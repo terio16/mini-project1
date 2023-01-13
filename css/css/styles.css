@@ -1,5 +1,21 @@
-@import "/css/base/_global.css";
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
 
+footer {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
 
 .gradient {
   background: rgb(68, 85, 130);
@@ -84,6 +100,6 @@
   z-index: 2;
 }
 
-/* .col-md-6, .col-md-2, .col-md-5, .col-md-4 .col-md-7 {
+/* .col-md-6, .col-md-2, .col-md-5, .col-md-4 .col-md-7 .col-12 {
   border: 1px solid black;
 } */
