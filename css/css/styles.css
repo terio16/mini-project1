@@ -8,10 +8,20 @@
   transform: translateY(-10px);
 }
 
-.page-header {
+.img-company {
+  width: 270px;
+}
+
+.page-header-a {
   margin-top: 4rem;
   font-size: 1.25rem;
   color: #fff;
+}
+
+.page-header-b {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: #000;
 }
 
 .feature {
@@ -54,21 +64,8 @@
   color: #fff;
 }
 
-.container-box {
-  width: 90%;
-  padding: 20px;
-  margin: 100px auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-
 .box {
   transition: .5s;
-}
-
-.box img {
-  display: block;
 }
 
 .box:hover {
@@ -76,6 +73,6 @@
   z-index: 2;
 }
 
-/* .col-md-6, .col-md-2, .col-md-5, .col-md-4 {
+/* .col-md-6, .col-md-2, .col-md-5, .col-md-4 .col-md-7 {
   border: 1px solid black;
 } */
